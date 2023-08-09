@@ -51,7 +51,7 @@ Optimization Loop:
 ### Results
 <table style="padding:10px">
   <tr>
-    <td width="50%"  height= "200px" ><img src="assets/textureMap.png"  alt="1" > </td>
+    <td width="50%"  height= "200px" ><img src="assets/texture_map.png"  alt="1" > </td>
    <td width="50%" height= "200px" ><img src="assets/brownCow.gif" alt="3"></td>
   </tr>
   

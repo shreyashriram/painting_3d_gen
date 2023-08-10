@@ -69,6 +69,13 @@ The resultant texture map is still quite noisy, even in areas that are well repr
 One source of doubt when learning colors from generated target images is when the images look different from various views. For instance, the back of an object might appear a different color in a side view compared to a top view. Introducing character consistency during image generation can help address this issue. Combining ControlNet with models like DreamBooth or LoRA has proven effective in generating different images with consistent character appearances.
 
 ## Acknowledgements
-I had an opportunity to work on this project during my 8-week micro-internship at [Hypothetic.AI](https://www.hypothetic.art/), facilitated by [OpenAvenues](https://www.openavenuesfoundation.org/micro-internships). 
+I had an opportunity to work on this project during my 8-week micro-internship at [Hypothetic](https://www.hypothetic.art/), facilitated by [OpenAvenues](https://www.openavenuesfoundation.org/micro-internships). Thank you to Pablo Weidemann, chief of product at Hypothetic, for his guidance and mentorship as my Project Leader!
 
-Thank you to Pablo Weidemann, CTO of Hypothetic, for his guidance and mentorship as our Project Leader. This project provided me a great opportunity to blend my interests in computer graphics and machine learning, fostering technical growth and exploratory learning. 
+This project provided me a great opportunity to blend my interests in computer graphics and machine learning. I look forward to continuing my exploration into this interdisciplinary field!
+
+#### Tutorials and Further Reading
+- [Pytorch3D - Render a Textured Mesh](https://pytorch3d.org/tutorials/render_textured_meshes)
+- [Pytorch3D - Fit a Mesh with Texture via Rendering](https://pytorch3d.org/tutorials/fit_textured_mesh)
+- [Ultra fast ControlNet with 🧨 Diffusers](https://huggingface.co/blog/controlnet)
+- [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/)
+- [Complete Guide to Adam Optimization](https://towardsdatascience.com/complete-guide-to-adam-optimization-1e5f29532c3d)

@@ -69,7 +69,7 @@ The resultant texture map is still quite noisy, even in areas that are well repr
 One source of doubt when learning colors from generated target images is when the images look different from various views. For instance, the back of an object might appear a different color in a side view compared to a top view. Introducing character consistency during image generation can help address this issue. Combining ControlNet with models like DreamBooth or LoRA has proven effective in generating different images with consistent character appearances.
 
 ## Acknowledgements
-I had an opportunity to work on this project during my 8-week micro-internship at [Hypothetic](https://www.hypothetic.art/), facilitated by [OpenAvenues](https://www.openavenuesfoundation.org/micro-internships). Thank you to Pablo Weidemann, chief of product at Hypothetic, for his guidance and mentorship as my Project Leader!
+I had an opportunity to work on this project during my 8-week micro-internship at [Hypothetic](https://www.hypothetic.art/), facilitated by [OpenAvenues](https://www.openavenuesfoundation.org/micro-internships). Thank you to Pablo Weidemann, Chief of Product at Hypothetic, for his guidance and mentorship as my Project Leader!
 
 This project provided me a great opportunity to blend my interests in computer graphics and machine learning. I look forward to continuing my exploration into this interdisciplinary field!
 
